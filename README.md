@@ -1,4 +1,4 @@
-# Arista# Arista Internship Work
+# Arista Internship Work
 Arista Networks, or simply Arista, is a networking company that specializes in designing and selling networking products such as switches and routers. The work done at the internship consisted of helping engineers conduct tests and maintaining lab equipments as well as some programming.
 ## About the Repository
 The repository contains programs written in shell and python; branches are created is split into two files. 
